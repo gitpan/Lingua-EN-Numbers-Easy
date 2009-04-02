@@ -1,0 +1,14 @@
+--- #YAML:1.0
+name:                Lingua-EN-Numbers-Easy
+version:             2009040201
+abstract:            ~
+license:             ~
+author:              
+    - Abigail <lingua-en-numbers-easy@abigail.be>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+    Lingua::EN::Numbers:           1.01
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
