@@ -4,7 +4,7 @@ use strict;
 use warnings;
 no  warnings 'syntax';
 
-our $VERSION = '2009040201';
+our $VERSION = '2009110601';
 our %N;
 
 use Lingua::EN::Numbers 1.01;
@@ -46,7 +46,7 @@ __END__
 
 =head1 NAME
 
-Lingua::EN::Numbers::Easy  --  Hash access to Lingua::EN::Numbers objects.
+Lingua::EN::Numbers::Easy - Hash access to Lingua::EN::Numbers objects.
 
 =head1 SYNOPSIS
 
